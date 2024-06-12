@@ -1,3 +1,3 @@
 # nodejs projects
  
-  --Js projects it's just practice for time when i was in learn 
+ # `html and css` exercises and projects for when I was learning
